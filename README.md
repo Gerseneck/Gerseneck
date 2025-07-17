@@ -11,9 +11,4 @@ I do things.
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-<hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerseneck&show_icons=true&theme=dracula)](https://github.com/Gerseneck/Gerseneck)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gerseneck&theme=dark)](https://github.com/Gerseneck/Gerseneck)
-
 I like to watch numbers go up.
